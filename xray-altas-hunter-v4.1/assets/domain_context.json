@@ -1,0 +1,16 @@
+{
+  "project": "ALTAS Habilidades.com",
+  "domain": "niche edtech / founder decision intelligence",
+  "default_constraints": [
+    "limited founder bandwidth",
+    "need for fast validation",
+    "attention is scarce capital",
+    "distribution risk matters",
+    "execution complexity must stay low"
+  ],
+  "default_policy": {
+    "max_pursue_now": 1,
+    "max_next": 2,
+    "prefer_cheapest_valid_test": true
+  }
+}

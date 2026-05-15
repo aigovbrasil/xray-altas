@@ -1,0 +1,2 @@
+Custom internal-use skill package for Hunter 4.1.
+No warranty. Adapt freely for founder decision workflows.
